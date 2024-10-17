@@ -1,35 +1,35 @@
 criaCartao(
     'TVD',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Em qual cidade se passa a história?',
+    'Mystic Falls'
+    )
+
+criaCartao(
+    'TVD',
+    'Como é o nome do Original que Stefan e Damon descendem?',
+    'Klaus Mikaelson'
+)
+criaCartao(
+    'TVD',
+    'Qual é o nome do pais dos vampiros originais?',
+    'Mikael'
 )
 
 criaCartao(
     'TVD',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Em qual temporada Elena Gilbert se transforma vampira?',
+    'quarta temporada'
 )
 criaCartao(
     'TVD',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Quem matou Lexi, a melhor amiga de Stefan?',
+    'Damon'
 )
 
 criaCartao(
-    'TVD',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
-criaCartao(
-    'TVD',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
-
-criaCartao(
-   'TVD' 
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'TVD' 
+   'Quem transformou os irmãos Salvatore em vampiros?'
+     'Ketherine Pierce'
 )
 criaCartao(
     'TVD' 
