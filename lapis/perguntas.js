@@ -27,12 +27,12 @@ criaCartao(
 )
 
 criaCartao(
-    'TVD' 
-   'Quem transformou os irmãos Salvatore em vampiros?'
+    'TVD',
+   'Quem transformou os irmãos Salvatore em vampiros?',
      'Ketherine Pierce'
 )
 criaCartao(
-    'TVD' 
-     'Qual irmão Salvatore fica com Elena no final da série?'
+    'TVD',
+     'Qual irmão Salvatore fica com Elena no final da série?',
     'Damon'
 )
